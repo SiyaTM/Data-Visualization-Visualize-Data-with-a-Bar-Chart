@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open web.html",
+            "file": "c:\\Users\\siyat\\VSC Projects (Blue)\\Bootcamps\\FCC\\FCC-Data visualisation-Projects\\Data visualisation-Visualize Data with a Bar Chart\\web.html"
+        }
+    ]
+}
